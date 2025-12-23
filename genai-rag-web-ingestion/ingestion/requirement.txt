@@ -1,0 +1,4 @@
+requests
+beautifulsoup4
+azure-storage-blob
+python-dotenv

@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+azure-search-documents
+openai
+python-dotenv
+azure.core.credentials
